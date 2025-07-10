@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **taki0706/taki0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
